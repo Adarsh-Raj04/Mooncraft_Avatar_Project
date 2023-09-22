@@ -1,19 +1,20 @@
-# Mooncraft_Avatar_Project
+# Moonraft Avatar Project
 
-Cartoonify Image Project
 This project is designed to cartoonify an input image using OpenCV and Python. The script takes an input image, applies several image processing techniques, and generates a cartoon-like version of the image.
 
-Prerequisites
+## Prerequisites
+
 Before running the script, make sure you have the following dependencies installed:
 
-OpenCV (cv2)
-NumPy (numpy)
-Matplotlib (matplotlib)
-You can install these dependencies using pip:
+- OpenCV (`cv2`)
+- NumPy (`numpy`)
+- Matplotlib (`matplotlib`)
 
-bash
-Copy code
-pip install opencv-python-headless numpy matplotlib
+You can install these dependencies using `pip`:
+
+```bash
+pip install opencv-python numpy matplotlib
+```
 Getting Started
 Clone this repository or download the script to your local machine.
 
@@ -56,3 +57,8 @@ img = read_file(filename)
 cartoon()
 License
 This project is licensed under the MIT License. Feel free to use and modify the code for your own projects.
+
+vbnet
+Copy code
+
+You can save this text in a file named `README.md` in your project's directory, 
