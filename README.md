@@ -1,4 +1,9 @@
 # Moonraft Avatar Project
+[![GitHub forks](https://img.shields.io/github/forks/Adarsh-Raj04/Mooncraft_Avatar_Project)](https://github.com/Adarsh-Raj04/Mooncraft_Avatar_Project/network)
+[![GitHub stars](https://img.shields.io/github/stars/Adarsh-Raj04/Mooncraft_Avatar_Project)](https://github.com/Adarsh-Raj04/Mooncraft_Avatar_Project/stargazers)
+[![GitHub forks and stars](https://img.shields.io/github/stars/Adarsh-Raj04/Mooncraft_Avatar_Project.svg?style=social&label=Forks%20%26%20Stars)](https://github.com/Adarsh-Raj04/Mooncraft_Avatar_Project)
+
+
 
 This project is designed to create cartoon like avatar from an input image using OpenCV and Python. The script takes an input image, applies several image processing techniques, and generates a cartoon-like avatar of the image.
 
