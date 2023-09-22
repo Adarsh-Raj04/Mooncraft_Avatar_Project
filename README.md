@@ -1,6 +1,6 @@
 # Moonraft Avatar Project
 
-This project is designed to cartoonify an input image using OpenCV and Python. The script takes an input image, applies several image processing techniques, and generates a cartoon-like version of the image.
+This project is designed to create cartoon like avatar from an input image using OpenCV and Python. The script takes an input image, applies several image processing techniques, and generates a cartoon-like avatar of the image.
 
 ## Prerequisites
 
@@ -50,17 +50,17 @@ Here's an example of how to use the script:
 
 
 # Load and display the image
-filename = "./input.jpg"
+```bash
+filename = "./input.jpg" #change it with the required file path.
+
 img = read_file(filename)
-
-
-# Cartoonify the image and display the result
-cartoon()
-License
-This project is licensed under the MIT License. Feel free to use and modify the code for your own projects.
 ```
 
-vbnet
-Copy code
 
-You can save this text in a file named `README.md` in your project's directory, 
+# create cartoon like avatar the image and display the result
+```bash
+avatar()
+```
+
+License
+This project is licensed under the MIT License. Feel free to use and modify the code for your own projects.
